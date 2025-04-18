@@ -1,5 +1,19 @@
-This project showcases my work, skills, and experiences as a web developer. The website is built using HTML, CSS, and JavaScript to provide a responsive and interactive user experience.
-Technologies Used -
-> HTML5 : For creating the structure and content of the website.
-> CSS3 : For styling the website, including layout, colors, fonts, and responsiveness.
-> JavaScript : For adding interactivity and dynamic content to the website# My-Portfolio
+# 🌐 Personal Portfolio Website
+
+This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my projects, skills, and contact information. Designed to reflect my style and provide a central place for people to learn more about me and my work.
+
+## 📌 Features
+
+- Responsive design for mobile, tablet, and desktop
+- Smooth scrolling and animations
+- Projects section with links
+- Skills and About Me section
+- Contact form or contact links (Email/LinkedIn/GitHub)
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript 
+
+
